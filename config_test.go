@@ -331,7 +331,7 @@ func TestParseConfig_correctValues(t *testing.T) {
     	address = "vault.service.consul"
     	token = "efgh5678"
     	ssl {
-	    	enabled = false
+    		enabled = false
     	}
     }
 
